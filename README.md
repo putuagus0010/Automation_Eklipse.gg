@@ -72,4 +72,4 @@ python "Register - Login/Reg_1.py"
 
 I Putu Agus Adi Artha Saputra  
 Quality Assurance Engineer | Manual & Automation Tester  
-📫 [LinkedIn](https://linkedin.com/in/putuagus0010)
+📫 [LinkedIn](https://www.linkedin.com/in/agusadi/)
