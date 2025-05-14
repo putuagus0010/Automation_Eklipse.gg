@@ -50,11 +50,11 @@ Atau bisa juga langsung:
 python "Register - Login/Reg_1.py"
 ```
 
-> 💡 Disarankan menggunakan `pytest` untuk hasil laporan yang lebih rapi.
+>  Disarankan menggunakan `pytest` untuk hasil laporan yang lebih rapi.
 
 ---
 
-## 🧪 Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - Python 3.x
 - Selenium WebDriver
@@ -68,7 +68,7 @@ python "Register - Login/Reg_1.py"
 
 ---
 
-## 🙋 Tentang Saya
+##  Tentang Saya
 
 I Putu Agus Adi Artha Saputra  
 Quality Assurance Engineer | Manual & Automation Tester  
