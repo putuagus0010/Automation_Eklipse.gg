@@ -31,8 +31,8 @@ try:
     print("✅ Navigated to Sign In Page")
 
     # Credentials
-    email = "--"
-    password = "--"
+    email = "test2.as@example.com"
+    password = "TestPassword123!"
 
     # Fill form
     driver.find_element(By.ID, "username").send_keys(email)
